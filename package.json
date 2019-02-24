@@ -55,6 +55,7 @@
     "dat-encoding": "^5.0.1",
     "discovery-swarm": "^5.1.4",
     "electron-collection": "^1.2.0",
+    "elm-webpack-loader": "^5.0.0",
     "hypercore-crypto": "^1.0.0",
     "identicon.js": "^2.3.3",
     "js-yaml": "^3.12.1",
